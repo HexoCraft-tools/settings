@@ -4,6 +4,7 @@
       <mapping pattern="mcmod.info" type="JSON" />
       <mapping pattern="multi-version-mod" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
