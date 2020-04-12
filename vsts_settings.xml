@@ -3,14 +3,6 @@
     <option name="serverContexts">
       <array>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/HexoMod-lib" />
           <option name="serverUri" value="https://dev.azure.com/HexoMod-lib" />
@@ -22,6 +14,18 @@
     </option>
     <option name="properties">
       <array>
+        <PropertyState>
+          <option name="name" value="tfHome" />
+          <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="visualStudioTfClientPath" />
+          <option name="value" value="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\TF.exe" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="tfvcUseReactiveClient" />
+          <option name="value" value="true" />
+        </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
           <option name="value" value="//dev.azure.com/hexomod-lib" />
