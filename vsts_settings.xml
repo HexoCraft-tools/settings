@@ -15,8 +15,8 @@
           <option name="uri" value="https://dev.azure.com/HexoMod-lib" />
           <option name="serverUri" value="https://dev.azure.com/HexoMod-lib" />
           <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;,&quot;name&quot;:&quot;HexoMod-lib&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projectCollections/5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;66fdaba7-afa5-4e0a-9a39-5dd7914f0e50&quot;,&quot;name&quot;:&quot;multi-version-template&quot;,&quot;revision&quot;:11,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/66fdaba7-afa5-4e0a-9a39-5dd7914f0e50&quot;}" />
         </ServerContextState>
       </array>
     </option>
@@ -24,7 +24,7 @@
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//app.vssps.visualstudio.com" />
+          <option name="value" value="//dev.azure.com/hexomod-lib" />
         </PropertyState>
       </array>
     </option>
