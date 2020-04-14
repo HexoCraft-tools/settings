@@ -27,6 +27,15 @@
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;,&quot;name&quot;:&quot;HexoMod-lib&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projectCollections/5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;,&quot;name&quot;:&quot;core&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://HexoMod-lib@dev.azure.com/HexoMod-lib/network/_git/network" />
+          <option name="serverUri" value="https://dev.azure.com/HexoMod-lib" />
+          <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;,&quot;name&quot;:&quot;HexoMod-lib&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projectCollections/5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;d99c41ec-1537-42d2-ad50-353a2ff3a2e2&quot;,&quot;name&quot;:&quot;network&quot;,&quot;revision&quot;:35,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/d99c41ec-1537-42d2-ad50-353a2ff3a2e2&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;ceea060f-7a0e-4469-8f80-c02b38a4a9dc&quot;,&quot;name&quot;:&quot;network&quot;,&quot;remoteUrl&quot;:&quot;https://HexoMod-lib@dev.azure.com/HexoMod-lib/network/_git/network&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/git/repositories/ceea060f-7a0e-4469-8f80-c02b38a4a9dc&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;d99c41ec-1537-42d2-ad50-353a2ff3a2e2&quot;,&quot;name&quot;:&quot;network&quot;,&quot;revision&quot;:35,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/d99c41ec-1537-42d2-ad50-353a2ff3a2e2&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -45,7 +54,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//dev.azure.com/hexomod-lib" />
+          <option name="value" value="//hexomod-lib@dev.azure.com/hexomod-lib/network/_git/network" />
         </PropertyState>
       </array>
     </option>
