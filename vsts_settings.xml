@@ -4,11 +4,28 @@
       <array>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://HexoMod-lib@dev.azure.com/HexoMod-lib/core/_git/core" />
+          <option name="serverUri" value="https://dev.azure.com/HexoMod-lib" />
+          <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;,&quot;name&quot;:&quot;HexoMod-lib&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projectCollections/5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;,&quot;name&quot;:&quot;core&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;0fbb5720-0150-44fa-bc94-8bd88e2dbe90&quot;,&quot;name&quot;:&quot;core&quot;,&quot;remoteUrl&quot;:&quot;https://HexoMod-lib@dev.azure.com/HexoMod-lib/core/_git/core&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/git/repositories/0fbb5720-0150-44fa-bc94-8bd88e2dbe90&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;,&quot;name&quot;:&quot;core&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/HexoMod-lib" />
           <option name="serverUri" value="https://dev.azure.com/HexoMod-lib" />
           <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;,&quot;name&quot;:&quot;HexoMod-lib&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projectCollections/5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;66fdaba7-afa5-4e0a-9a39-5dd7914f0e50&quot;,&quot;name&quot;:&quot;multi-version-template&quot;,&quot;revision&quot;:11,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/66fdaba7-afa5-4e0a-9a39-5dd7914f0e50&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;,&quot;name&quot;:&quot;core&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;}" />
         </ServerContextState>
       </array>
     </option>
