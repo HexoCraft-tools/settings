@@ -39,14 +39,6 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;86f1e0fc-ddfd-4291-9a7d-5b4557e29a08&quot;,&quot;name&quot;:&quot;overlay&quot;,&quot;remoteUrl&quot;:&quot;https://HexoMod-lib@dev.azure.com/HexoMod-lib/overlay/_git/overlay&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/git/repositories/86f1e0fc-ddfd-4291-9a7d-5b4557e29a08&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6f29a230-5640-4570-9129-17f83cb78f9a&quot;,&quot;name&quot;:&quot;overlay&quot;,&quot;revision&quot;:51,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/6f29a230-5640-4570-9129-17f83cb78f9a&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/HexoMod" />
           <option name="serverUri" value="https://dev.azure.com/HexoMod" />
