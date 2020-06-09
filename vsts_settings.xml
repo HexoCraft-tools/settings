@@ -39,6 +39,14 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;86f1e0fc-ddfd-4291-9a7d-5b4557e29a08&quot;,&quot;name&quot;:&quot;overlay&quot;,&quot;remoteUrl&quot;:&quot;https://HexoMod-lib@dev.azure.com/HexoMod-lib/overlay/_git/overlay&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/git/repositories/86f1e0fc-ddfd-4291-9a7d-5b4557e29a08&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;6f29a230-5640-4570-9129-17f83cb78f9a&quot;,&quot;name&quot;:&quot;overlay&quot;,&quot;revision&quot;:51,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/6f29a230-5640-4570-9129-17f83cb78f9a&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/HexoMod" />
           <option name="serverUri" value="https://dev.azure.com/HexoMod" />
@@ -48,11 +56,20 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://HexoMod-lib@dev.azure.com/HexoMod-lib/locator/_git/locator" />
+          <option name="serverUri" value="https://dev.azure.com/HexoMod-lib" />
+          <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;,&quot;name&quot;:&quot;HexoMod-lib&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projectCollections/5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Locate containers, ores and entities&quot;,&quot;id&quot;:&quot;ee5b77f6-40e6-4097-94f6-03ad13ae3ce7&quot;,&quot;name&quot;:&quot;locator&quot;,&quot;revision&quot;:59,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/ee5b77f6-40e6-4097-94f6-03ad13ae3ce7&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;70977f54-1ba7-4428-924d-f5e3eadaf8c3&quot;,&quot;name&quot;:&quot;locator&quot;,&quot;remoteUrl&quot;:&quot;https://HexoMod-lib@dev.azure.com/HexoMod-lib/locator/_git/locator&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/git/repositories/70977f54-1ba7-4428-924d-f5e3eadaf8c3&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Locate containers, ores and entities&quot;,&quot;id&quot;:&quot;ee5b77f6-40e6-4097-94f6-03ad13ae3ce7&quot;,&quot;name&quot;:&quot;locator&quot;,&quot;revision&quot;:59,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/ee5b77f6-40e6-4097-94f6-03ad13ae3ce7&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/HexoMod-lib" />
           <option name="serverUri" value="https://dev.azure.com/HexoMod-lib" />
           <option name="userId" value="8b08bf34-da66-427b-8d2a-9b6774f38616" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;,&quot;name&quot;:&quot;HexoMod-lib&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projectCollections/5139aa4a-8551-4a99-91b0-ea3e53f43c19&quot;}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;,&quot;name&quot;:&quot;core&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/de928abe-3ef6-4459-9e6e-3e8c96578ade&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Locate containers, ores and entities&quot;,&quot;id&quot;:&quot;ee5b77f6-40e6-4097-94f6-03ad13ae3ce7&quot;,&quot;name&quot;:&quot;locator&quot;,&quot;revision&quot;:59,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/HexoMod-lib/_apis/projects/ee5b77f6-40e6-4097-94f6-03ad13ae3ce7&quot;}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -90,7 +107,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//dev.azure.com/hexomod" />
+          <option name="value" value="//hexomod-lib@dev.azure.com/hexomod-lib/locator/_git/locator" />
         </PropertyState>
       </array>
     </option>
