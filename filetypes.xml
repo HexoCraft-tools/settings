@@ -3,15 +3,16 @@
     <extensionMap>
       <mapping pattern="pack.mcmeta" type="JSON" />
       <mapping pattern="mcmod.info" type="JSON" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="multi-version-mod" type="PLAIN_TEXT" />
       <mapping ext="tmp" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="PLAIN_TEXT" />
       <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="mcmeta" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="Shrinker Config File" />
     </extensionMap>
   </component>
 </application>
