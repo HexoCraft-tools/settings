@@ -12,7 +12,6 @@
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="mcmeta" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <mapping ext="pro" type="Shrinker Config File" />
     </extensionMap>
   </component>
 </application>
