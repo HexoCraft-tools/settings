@@ -13,7 +13,7 @@
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="mcmeta" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".analysis_options" type="YAML" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>
